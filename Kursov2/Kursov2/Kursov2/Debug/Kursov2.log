@@ -1,2 +1,92 @@
-﻿  Kursov2.cpp
+﻿  bot.cpp
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(55,19): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(57,23): warning C4305: =: усечение из "int" в "_Ty"
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(57,19): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(59,23): warning C4305: =: усечение из "int" в "_Ty"
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(59,19): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(61,23): warning C4305: =: усечение из "int" в "_Ty"
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(61,19): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(63,23): warning C4305: =: усечение из "int" в "_Ty"
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(63,19): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(68,24): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(85,28): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(99,28): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(114,28): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(129,29): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(149,29): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(164,29): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(179,29): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\bot.cpp(194,29): warning C4309: =: усечение константного значения
+  single.cpp
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(45,31): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(47,35): warning C4305: =: усечение из "int" в "_Ty"
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(47,31): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(49,35): warning C4305: =: усечение из "int" в "_Ty"
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(49,31): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(51,35): warning C4305: =: усечение из "int" в "_Ty"
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(51,31): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(53,35): warning C4305: =: усечение из "int" в "_Ty"
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(53,31): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(57,23): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(73,27): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(74,27): warning C4305: =: усечение из "int" в "_Ty"
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(74,23): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(90,27): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(91,27): warning C4305: =: усечение из "int" в "_Ty"
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(91,23): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(107,27): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(108,27): warning C4305: =: усечение из "int" в "_Ty"
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(108,23): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(128,28): warning C4309: =: усечение константного значения
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(129,28): warning C4305: =: усечение из "int" в "_Ty"
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\Vladislav\source\repos\Kursov2\Kursov2\single.cpp(129,24): warning C4309: =: усечение константного значения
+  Создание кода...
   Kursov2.vcxproj -> C:\Users\Vladislav\source\repos\Kursov2\Debug\Kursov2.exe

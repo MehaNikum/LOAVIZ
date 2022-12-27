@@ -63,7 +63,7 @@ void single() {
 		cout << endl;
     }
 	int click = 0;
-	int startTime = clock();
+	unsigned int startTime = clock();
 	while (TRUE)
 	{
 		if (GetAsyncKeyState(VK_UP))
@@ -115,8 +115,6 @@ void single() {
 					cout << endl;
 				}
 				if (maze2[str][stl] == maze2[vihod][n-1]) {
-					int endTime = clock();
-					double time = (endTime - startTime) / 100000000;
 					break;
 				}
 				click++;
@@ -146,9 +144,11 @@ void single() {
 	for (int i = 0; i < n; i++) {
 		delete[] maze[i];  // удаляем массив
 	}
+	unsigned int endTime = clock();
+	unsigned int time0 = (endTime - startTime) / 1000;
 	system("pause >> NUL");
 	system("cls");
-	cout << "---------------Statistic---------------\n" << "Time to comlete the maze: " << time << "\nSize maze: " << n << "\nNumber of clicks: " << click;
+	cout << "---------------Statistic---------------\n" << "Time to comlete the maze: " << time0 << "s\nSize maze: " << n << "\nNumber of clicks: " << click;
 	random_device rd;
 	mt19937 gen(rd());
 	uniform_int_distribution<> dist(0, 2);

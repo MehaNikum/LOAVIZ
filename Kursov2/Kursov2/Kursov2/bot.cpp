@@ -1,6 +1,7 @@
 #include <vector>
 #include "Windows.h"
 #include <fstream>
+#include <ctime>
 #include <time.h>
 #include <iostream>
 using namespace std;
@@ -74,7 +75,7 @@ void bot() {
 		cout << endl;
 	}
 
-	int startTime = clock();
+	unsigned int startTime = clock();
 	while (TRUE)
 	{
 			while ((maze2[str - 1][stl] == 32) || (maze2[str + 1][stl] == 32) || (maze2[str][stl - 1] == 32) || (maze2[str][stl + 1] == 32))
@@ -206,13 +207,13 @@ void bot() {
 				}
 			}
 		if (maze2[str][stl] == maze2[vihod][n - 1]) {
-			int endTime = clock();
-			double time = (endTime - startTime) / 1000;
 			break;
 		}
 	}
+	unsigned int endTime = clock();
+	unsigned int time0 = (endTime - startTime)/1000;
 	system("pause >> NUL");
 	system("cls");
-	cout << "---------------Statistic---------------\n" << "Time to comlete the maze: " << time << "\nSize maze: " << n;
+	cout << "---------------Statistic---------------\n" << "Time to comlete the maze: " << time0 << "s\nSize maze: " << n;
 	system("pause >> NUL");
 }

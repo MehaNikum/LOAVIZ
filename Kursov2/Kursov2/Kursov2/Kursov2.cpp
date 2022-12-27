@@ -35,7 +35,7 @@ void menu3(int Item3)
 }
 int main()
 {
-    system("color E0");//07
+    system("color 07");//E0
 menu11:
     int Item1 = 1;
     int Last1 = 2;
